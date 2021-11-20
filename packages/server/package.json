@@ -1,0 +1,9 @@
+{
+  "name": "server",
+  "scripts": {
+    "start": "node index.mjs"
+  },
+  "dependencies": {
+    "prisma-client": "workspace:*"
+  }
+}

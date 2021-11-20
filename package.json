@@ -1,0 +1,13 @@
+{
+  "name": "prisma-path-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "preinstall": "npx only-allow pnpm",
+    "start": "pnpm run start --filter server"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
